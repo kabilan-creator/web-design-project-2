@@ -1,0 +1,1 @@
+This project using html, css and javascript . this project mainly created to leran about javascript , how to add the product in cart and how to calculate the price in cart those some of the basics javascript program help for to learn
